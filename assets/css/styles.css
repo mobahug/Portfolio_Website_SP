@@ -577,6 +577,14 @@ img {
   width: 95%;
 }
 
+.skills__npm {
+  width: 90%;
+}
+
+.skills__lucidchart {
+  width: 65%;
+}
+
 .skills__close .skills__list {
   height: 0;
   overflow: hidden;
