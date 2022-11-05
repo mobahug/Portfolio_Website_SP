@@ -518,11 +518,11 @@ img {
 }
 
 .skills__js {
-  width: 60%;
+  width: 90%;
 }
 
 .skills__react {
-  width: 55%;
+  width: 85%;
 }
 
 
@@ -540,7 +540,7 @@ img {
 }
 
 .skills__postgresql {
-  width: 65%;
+  width: 80%;
 }
 
 
@@ -583,6 +583,10 @@ img {
 
 .skills__lucidchart {
   width: 65%;
+}
+
+.skills__frameworks {
+  width: 95%;
 }
 
 .skills__close .skills__list {
@@ -783,6 +787,13 @@ transition: .3s;
 
 .portfolio__img {
   width: 265px;
+  border-radius: .5rem;
+  justify-self: center;
+}
+
+.portfolio__img_matcha {
+  width: auto;
+  height: 420px;
   border-radius: .5rem;
   justify-self: center;
 }
