@@ -514,7 +514,7 @@ img {
 }
 
 .skills__css {
-  width: 75%;
+  width: 85%;
 }
 
 .skills__js {
@@ -522,6 +522,18 @@ img {
 }
 
 .skills__react {
+  width: 95%;
+}
+
+.skills__typescript {
+  width: 90%;
+}
+
+.skills__nextjs {
+  width: 90%;
+}
+
+.skills__graphql {
   width: 85%;
 }
 
@@ -550,7 +562,7 @@ img {
 }
 
 .skills__docker {
-  width: 80%;
+  width: 85%;
 }
 
 .skills__photoshop {
@@ -587,6 +599,10 @@ img {
 
 .skills__frameworks {
   width: 95%;
+}
+
+.skills__azure {
+  width: 75%;
 }
 
 .skills__close .skills__list {
